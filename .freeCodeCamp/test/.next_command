@@ -64,3 +64,4 @@ echo hello PostgreSql
 echo hello PostgreSQL
 echo mariam
 psql --username=freecodecamp --dbname=postgres
+psql --username=freecodecamp --dbname=postgres
